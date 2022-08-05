@@ -13,5 +13,5 @@ const createGrid = (amountOfGrids) => {
         container.appendChild(row)
     }
 }
-
-createGrid(4)
+let sizeOfGrid = 5
+createGrid(sizeOfGrid)
